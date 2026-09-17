@@ -1,0 +1,39 @@
+body{
+    background-color: #CE1126;
+}
+
+p{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.textColor{
+    color: white;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.backroundPowderColor{
+    background-color: #006BA6;
+}
+
+.backroundNavyColor{
+    background-color: #14213D;
+}
+
+.linkBackround{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+.border{
+    border: 2px solid black;
+    border-radius: 10px;
+}
