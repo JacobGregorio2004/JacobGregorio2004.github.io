@@ -1,0 +1,195 @@
+{
+    "title": "Instrument Index",
+    "subheading": "What type of instrument would you like to play?",
+    "types": {
+        "brass": {
+            "title": "Brass Instruments",
+            "subheading": "Choose from Trumpet, French horn, Trombone, and Tuba!",
+            "image": "img/chris-bair-A10y2Eq7OHY-unsplash.jpg",
+            "instruments": {
+                "trumpet": {
+                    "title": "Trumpet",
+                    "pronunciation": "Pronounced: TRUM-pit",
+                    "cardImage": "img/bruno-justo-pego-HeWRZ5-5Kt0-unsplash.jpg",
+                    "description": "The trumpet is a brass instrument known for its bright, clear, and powerful sound. It is commonly used in concert bands, marching bands, jazz groups, orchestras, and many other styles of music. The main parts of a trumpet include the mouthpiece, leadpipe, tuning slide, three valves, valve casings, valve slides, water key, and bell. These parts work together to help shape the instrument's sound and allow the player to produce different notes.",
+                    "descriptionImage": "img/hal-gatewood-fTPSm7KD_d0-unsplash.jpg",
+                    "howToPlayHeader": "Trumpet",
+                    "howToPlay": "The trumpet is played by buzzing the lips into the mouthpiece while blowing air through the instrument. The player presses different combinations of the three valves to change the length of the tubing, which changes the notes that are produced. The player can also change notes by adjusting how tightly or loosely they buzz their lips and by controlling their airflow.",
+                    "howToPlayImage": "img/kevin-loesch-peqhxuFswfs-unsplash.jpg"
+                },
+                "frenchHorn": {
+                    "title": "French Horn",
+                    "pronunciation": "Pronounced: FRENCH horn",
+                    "cardImage": "img/asher-legg-XIe1b4k9-k0-unsplash.jpg",
+                    "description": "The French horn is a brass instrument known for its warm, rich, and mellow sound. It is commonly used in orchestras, concert bands, brass ensembles, and film music. The main parts of a French horn include the mouthpiece, leadpipe, rotary valves, valve levers, tuning slides, long coiled tubing, and the large flared bell. Its circular shape and wide bell make it easy to recognize among other brass instruments.",
+                    "descriptionImage": "img/the-metropolitan-museum-of-art-QK9qMretXso-unsplash.jpg",
+                    "howToPlayHeader": "French Horn",
+                    "howToPlay": "The French horn is played by buzzing the lips into the mouthpiece while blowing air through the instrument. The player presses valve levers to redirect air through different lengths of tubing, which changes the notes. Notes can also be changed by adjusting lip tension and airflow. The player usually places the right hand inside the bell, which helps control the tone and can slightly affect the pitch.",
+                    "howToPlayImage": "img/howard-wang-PtA0wMdxkrQ-unsplash.jpg"
+                },
+                "trombone": {
+                    "title": "Trombone",
+                    "pronunciation": "Pronounced: trahm-BOHN",
+                    "cardImage": "img/vasilis-caravitis-7SStqf_mj5Y-unsplash.jpg",
+                    "description": "The trombone is a brass instrument known for its strong, full, and sometimes bold sound. It is commonly used in concert bands, marching bands, jazz groups, orchestras, and brass ensembles. The main parts of a trombone include the mouthpiece, leadpipe, tuning slide, long movable slide, brace, water key, and bell. Unlike most other brass instruments, the trombone usually does not use valves to change notes.",
+                    "descriptionImage": "img/remy-gieling-0lz9jSus6AE-unsplash.jpg",
+                    "howToPlayHeader": "Trombone",
+                    "howToPlay": "The trombone is played by buzzing the lips into the mouthpiece while blowing air through the instrument. Instead of pressing valves, the player moves the slide in and out to change the length of the tubing and produce different notes. The player also changes notes by adjusting lip tension and airflow. Learning the correct slide positions is an important part of playing the trombone accurately.",
+                    "howToPlayImage": "img/david-vilches-KdEXsKuGeBA-unsplash.jpg"
+                },
+                "tuba": {
+                    "title": "Tuba",
+                    "pronunciation": "Pronounced: TOO-buh",
+                    "cardImage": "img/janosch-jost-jLhpu4-UL9I-unsplash.jpg",
+                    "description": "The tuba is the largest and lowest-pitched instrument in the brass family and is known for its deep, powerful, and full sound. It is commonly used in concert bands, marching bands, orchestras, and brass ensembles, where it often provides the low foundation of the group. The main parts of a tuba include the mouthpiece, leadpipe, valves, valve casings, tuning slides, water keys, large sections of coiled tubing, and a wide bell. Its large size and long tubing give the tuba its characteristic low sound.",
+                    "descriptionImage": "img/warren-valentine--sKREKDmV8w-unsplash.jpg",
+                    "howToPlayHeader": "Tuba",
+                    "howToPlay": "The tuba is played by buzzing the lips into the mouthpiece while blowing air through the instrument. The player presses different combinations of valves to change the length of the tubing and produce different notes. Notes are also controlled by changing lip tension and airflow. Because of its large size and long tubing, the tuba requires strong and steady breath support to produce a clear, full tone.",
+                    "howToPlayImage": "img/pierre-goiffon--wxYkdgXF3I-unsplash.jpg"
+                }
+
+            }
+        },
+        "woodwinds": {
+            "title": "Woodwind Instruments",
+            "subheading": "Choose from Flute, Clarinet, Saxophone, and Oboe!",
+            "image": "img/jacob-mcgowin-HkHoF32l81E-unsplash.jpg",
+            "instruments": {
+                "flute": {
+                    "title": "Flute",
+                    "pronunciation": "Pronounced: FLOOT",
+                    "cardImage": "img/eleonora-paolino-LcrN354aCK4-unsplash.jpg",
+                    "description": "The flute is a woodwind instrument known for its light, clear, and bright sound. It is commonly used in concert bands, orchestras, chamber groups, and solo music. The main parts of a flute include the headjoint, lip plate, body, keys, footjoint, and tone holes. Unlike many other woodwind instruments, the flute does not use a reed, and its long metal body gives it a very distinct appearance.",
+                    "descriptionImage": "img/gilles-gravier-WP-cA4wO4XQ-unsplash.jpg",
+                    "howToPlayHeader": "Flute",
+                    "howToPlay": "The flute is played by blowing air across the opening in the lip plate. The player presses different combinations of keys to open and close tone holes, which changes the notes that are produced. Notes can also be changed by adjusting airflow, lip position, and the angle of the air stream.",
+                    "howToPlayImage": "img/nate-c-7xRggi4eA5k-unsplash.jpg"
+                },
+                "clarinet": {
+                    "title": "Clarinet",
+                    "pronunciation": "Pronounced: clair-uh-NET",
+                    "cardImage": "img/michael-myers-eFqJXUZldpg-unsplash.jpg",
+                    "description": "The clarinet is a woodwind instrument known for its smooth, warm, and flexible sound. It is commonly used in concert bands, orchestras, jazz groups, and chamber music. The main parts of a clarinet include the mouthpiece, reed, barrel, upper joint, lower joint, keys, tone holes, and bell. Its long cylindrical shape and dark body make it easy to recognize.",
+                    "descriptionImage": "img/michael-myers-E6lV9pFgvFc-unsplash.jpg",
+                    "howToPlayHeader": "Clarinet",
+                    "howToPlay": "The clarinet is played by blowing air through the mouthpiece while a single reed vibrates against it. The player presses different combinations of keys and covers tone holes to change the notes. The sound is also affected by breath support, tongue position, and how the player controls the reed with the mouth.",
+                    "howToPlayImage": "img/pierre-goiffon-f9Asw16vwWo-unsplash.jpg"
+                },
+                "saxophone": {
+                    "title": "Saxophone",
+                    "pronunciation": "Pronounced: SAK-suh-fohn",
+                    "cardImage": "img/reno-laithienne-MGfDE60G0-M-unsplash.jpg",
+                    "description": "The saxophone is a woodwind instrument known for its strong, expressive, and sometimes smooth or powerful sound. It is commonly used in concert bands, jazz groups, marching bands, and many styles of popular music. The main parts of a saxophone include the mouthpiece, reed, neck, body, keys, tone holes, bow, and bell. Although it is usually made of brass, it is classified as a woodwind because it uses a reed to produce sound.",
+                    "descriptionImage": "img/eavone-jazzman-75icZwPTDpI-unsplash.jpg",
+                    "howToPlayHeader": "Saxophone",
+                    "howToPlay": "The saxophone is played by blowing air through the mouthpiece while a single reed vibrates. The player presses different combinations of keys to open and close tone holes, which changes the notes. Breath support, tongue movement, and mouth position also help control the tone and articulation.",
+                    "howToPlayImage": "img/kobby-mendez-V3u2hyLPbaM-unsplash.jpg"
+                },
+                "oboe": {
+                    "title": "Oboe",
+                    "pronunciation": "Pronounced: OH-boh",
+                    "cardImage": "img/laura-rivera--gl0ZnM4cio-unsplash.jpg",
+                    "description": "The oboe is a woodwind instrument known for its clear, focused, and slightly nasal sound. It is commonly used in orchestras, concert bands, chamber groups, and solo music. The main parts of an oboe include the double reed, upper joint, lower joint, keys, tone holes, and bell. Its narrow body and small double reed give it a very distinctive sound compared with other woodwind instruments.",
+                    "descriptionImage": "img/astrid-schaffner-3q4InPFSQ_w-unsplash.jpg",
+                    "howToPlayHeader": "Oboe",
+                    "howToPlay": "The oboe is played by blowing air through a double reed made of two thin pieces of cane. The player presses different combinations of keys to open and close tone holes, which changes the notes. Producing a steady sound requires careful breath control and precise control of the reed with the lips.",
+                    "howToPlayImage": "img/gabriel-martin-MAg8RWQTEFo-unsplash.jpg"
+                }
+            }
+        },
+        "percussion": {
+            "title": "Percussion Instruments",
+            "subheading": "Choose from Snare drum, Mallet percussion, Cymbals, and Bass drum!",
+            "image": "img/matthijs-smit-bRG2C0FAQEY-unsplash.jpg",
+            "instruments": {
+                "snareDrum": {
+                    "title": "Snare Drum",
+                    "pronunciation": "Pronounced: SNAIR drum",
+                    "cardImage": "img/brent-ninaber-mLnG4BkTz54-unsplash.jpg",
+                    "description": "The snare drum is a percussion instrument known for its sharp, crisp, and energetic sound. It is commonly used in concert bands, marching bands, orchestras, drum lines, and many styles of popular music. The main parts of a snare drum include the drumhead, shell, rim, tension rods, snares, snare strainer, and stand. The metal wires called snares stretch across the bottom drumhead and give the instrument its distinctive buzzing sound.",
+                    "descriptionImage": "img/coppa-cover-KM4nJQmhjuI-unsplash.jpg",
+                    "howToPlayHeader": "Snare Drum",
+                    "howToPlay": "The snare drum is played by striking the top drumhead with drumsticks. Different sounds can be created by changing where and how hard the drum is struck. Players also use techniques such as rolls, accents, and rim shots to create different rhythms and effects.",
+                    "howToPlayImage": "img/shutter-speed-VFsPiZtC2HE-unsplash.jpg"
+                },
+                "malletPercussion": {
+                    "title": "Mallet Percussion",
+                    "pronunciation": "Pronounced: MAL-it per-KUSH-un",
+                    "cardImage": "img/alena-jarrett-c_3YTAXbuVE-unsplash.jpg",
+                    "description": "Mallet percussion refers to a group of pitched percussion instruments that are played with mallets. Common examples include the glockenspiel, xylophone, marimba, and vibraphone. These instruments have rows of bars arranged similarly to the keys of a piano, with each bar producing a different note. Mallet percussion is commonly used in concert bands, orchestras, marching ensembles, and percussion groups. The main parts usually include the bars, frame, resonators, and mallets, although the exact design differs between instruments.",
+                    "descriptionImage": "img/aaron-blanco-tejedor-bGdp2ikEDmA-unsplash.jpg",
+                    "howToPlayHeader": "Mallet Percussion Instruments",
+                    "howToPlay": "Mallet percussion instruments are played by striking the bars with one or more mallets. Each bar produces a specific pitch, so the player moves between the bars to play melodies, scales, and chords. The type of mallet and how hard the bar is struck can change the sound. Some mallet instruments also have pedals or other features that allow the player to control how long notes ring.",
+                    "howToPlayImage": "img/laura-rivera-Ra-xxnu1nBY-unsplash.jpg"
+                },
+                "cymbals": {
+                    "title": "Cymbals",
+                    "pronunciation": "Pronounced: SIM-bulz",
+                    "cardImage": "img/ulises-ruiz-s9bFiWE5llI-unsplash.jpg",
+                    "description": "Cymbals are percussion instruments made from thin, round metal plates that produce a bright, crashing, or shimmering sound. They are commonly used in concert bands, orchestras, marching bands, drum sets, and many styles of popular music. Common types include crash cymbals, suspended cymbals, ride cymbals, and hi-hats. Their sound can range from short and powerful to soft and sustained.",
+                    "descriptionImage": "img/adriaan-venner-scheepers--PvGEJcEeXU-unsplash.jpg",
+                    "howToPlayHeader": "Cymbals",
+                    "howToPlay": "Cymbals can be played in several different ways depending on the type. Crash cymbals are usually struck together, while suspended cymbals are struck with sticks or mallets. On a drum set, cymbals are struck with drumsticks, and hi-hats can also be opened and closed using a foot pedal.",
+                    "howToPlayImage": "img/dasha-novikova-MjrBXuJgPNs-unsplash.jpg"
+                },
+                "bassDrum": {
+                    "title": "Bass Drum",
+                    "pronunciation": "Pronounced: BASE drum",
+                    "cardImage": "img/pearl-drums-231QG49V6ic-unsplash.jpg",
+                    "description": "The bass drum is a large percussion instrument known for its deep, powerful, and booming sound. It is commonly used in concert bands, marching bands, orchestras, drum lines, and drum sets. The main parts of a bass drum include the drumheads, shell, hoops, tension rods, and mounting or support hardware. Its large size allows it to produce very low sounds that help provide rhythm and impact.",
+                    "descriptionImage": "img/asba-drums-RkET07ahygE-unsplash.jpg",
+                    "howToPlayHeader": "Bass Drum",
+                    "howToPlay": "The bass drum is played by striking the drumhead with a large mallet or beater. In concert and marching settings, the player usually strikes the drum by hand with a mallet. On a drum set, the bass drum is played using a foot pedal connected to a beater. The player can change the sound by adjusting how hard and where the drum is struck.",
+                    "howToPlayImage": "img/adrian-hartanto-YPnu0_V5Ttk-unsplash.jpg"
+                }
+            }
+        },
+        "strings": {
+            "title": "String Instruments",
+            "subheading": "Choose from Violin, Viola, Cello, and Double Bass!",
+            "image": "img/larisa-birta-slbOcNlWNHA-unsplash.jpg",
+            "instruments": {
+                "violin": {
+                    "title": "Violin",
+                    "pronunciation": "Pronounced: vy-uh-LIN",
+                    "cardImage": "img/lucia-macedo-d9_2kPJBG0U-unsplash.jpg",
+                    "description": "The violin is the smallest and highest-pitched instrument in the traditional string family. It is known for its bright, expressive sound and is commonly used in orchestras, chamber groups, solo music, and many styles such as classical, folk, and bluegrass. The main parts of a violin include the scroll, tuning pegs, neck, fingerboard, strings, bridge, body, sound holes, chin rest, tailpiece, and bow.",
+                    "descriptionImage": "img/ria-nurul-kamariah-Ro7BTZEuqwE-unsplash.jpg",
+                    "howToPlayHeader": "Violin",
+                    "howToPlay": "The violin is usually played by drawing a bow across the strings while pressing the strings against the fingerboard with the fingers of the opposite hand. Different notes are produced by changing where the strings are pressed. The violin can also be played by plucking the strings with the fingers, a technique called pizzicato.",
+                    "howToPlayImage": "img/joel-timothy-WYiIkQFclA4-unsplash.jpg"
+                },
+                "viola": {
+                    "title": "Viola",
+                    "pronunciation": "Pronounced: vee-OH-luh",
+                    "cardImage": "img/xingchen-yan-nVi8AIPmq5g-unsplash.jpg",
+                    "description": "The viola is a string instrument that looks very similar to the violin but is slightly larger and has a deeper, warmer sound. It is commonly used in orchestras, chamber groups, and solo music, where it often helps fill the middle range between the violin and cello. The main parts of a viola include the scroll, tuning pegs, neck, fingerboard, strings, bridge, body, sound holes, chin rest, tailpiece, and bow.",
+                    "descriptionImage": "img/providence-doucet-wPaBwop_rSo-unsplash.jpg",
+                    "howToPlayHeader": "Viola",
+                    "howToPlay": "The viola is played in a similar way to the violin. The player draws a bow across the strings while pressing the strings against the fingerboard to change notes. It can also be played by plucking the strings. Because the viola is slightly larger than the violin, the player usually uses a somewhat wider hand position.",
+                    "howToPlayImage": "img/nadin-mario-al2FHdZKxpU-unsplash.jpg"
+                },
+                "cello": {
+                    "title": "Cello",
+                    "pronunciation": "Pronounced: CHEL-oh",
+                    "cardImage": "img/ismail-korkmaz-elT08YCdBy8-unsplash.jpg",
+                    "description": "The cello is a larger string instrument known for its rich, warm, and deep sound. It is commonly used in orchestras, chamber groups, solo music, and film scores. The main parts of a cello include the scroll, tuning pegs, neck, fingerboard, strings, bridge, body, sound holes, tailpiece, endpin, and bow. Unlike the violin and viola, the cello rests on the floor with the help of an endpin.",
+                    "descriptionImage": "img/isabela-kronemberger-DlDlTDplM3s-unsplash.jpg",
+                    "howToPlayHeader": "Cello",
+                    "howToPlay": "The cello is played while seated, with the instrument resting between the player's knees and supported by the endpin. The player draws a bow across the strings while pressing the strings against the fingerboard to change notes. The strings can also be plucked with the fingers for a different type of sound.",
+                    "howToPlayImage": "img/guy-basabose-1B6FNUc8np0-unsplash.jpg"
+                },
+                "doubleBass": {
+                    "title": "Double Bass",
+                    "pronunciation": "Pronounced: DUH-buhl BASE",
+                    "cardImage": "img/eldar-nazarov-gnYfMrL0rck-unsplash.jpg",
+                    "description": "The double bass is the largest and lowest-pitched instrument in the traditional string family. It is known for its deep, powerful sound and is commonly used in orchestras, jazz groups, concert bands, and many other styles of music. The main parts of a double bass include the scroll, tuning machines, neck, fingerboard, strings, bridge, body, sound holes, tailpiece, endpin, and bow.",
+                    "descriptionImage": "img/richard-wang-4fxpAIEBEwk-unsplash.jpg",
+                    "howToPlayHeader": "Double Bass",
+                    "howToPlay": "The double bass is played either standing or sitting on a tall stool, with the instrument supported by an endpin. The player presses the strings against the fingerboard with one hand and either uses a bow or plucks the strings with the other. In jazz and popular music, plucking the strings is especially common, while bowing is often used in orchestral music.",
+                    "howToPlayImage": "img/marco-chilese-VJrV0KUAONM-unsplash.jpg"
+                }
+            }
+        }
+    }
+}
