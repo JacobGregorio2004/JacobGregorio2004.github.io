@@ -82,7 +82,7 @@ function displayInstruments(selectedType) {
         IMAGE.className = "img-standard";
         IMAGE.alt = INSTRUMENT.title;
 
-        const HEADING = document.createElement("h2");
+        const HEADING = document.createElement("span");
         HEADING.textContent = INSTRUMENT.title;
         HEADING.className = "text-link-format";
 
