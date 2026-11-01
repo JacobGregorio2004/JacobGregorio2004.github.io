@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Jacob Gregorio">
+    <meta name="description" content="intrument finder page">
+    <title>Intrument Finder</title>
+    <link rel="icon" type="image/svg+xml" href="img/noun_instrument_3327416.svg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <p id="authLoading" role="status">
+    Checking login status...
+    </p>
+
+    <div id="protectedContent" hidden>
+    <header>
+        <img class="header-image" src="img/noun_instrument_3327416.svg" alt="Logo">
+        <h1 id="pageTitle">Instrument Index</h1>
+        <h2 id="pageSubheading">What type of instrument would you like to play?</h2>
+        <section>
+            <a href="index.html">Home</a>
+            <a href="instrument-finder.html">Explore Instruments</a>
+            <a href="buying-instrument-guide.html">Instrument Buying Guide</a>
+            <a href="contact.html">Contact Us!</a>
+        </section>
+    </header>
+    
+    <p id="loadingMessage" role="status">
+        Loading instrument information...
+    </p>
+
+    <main class="instrument-grid" id="instrumentChoices">
+        <button type="button" class="instrument-option" data-family="brass">
+            <img class="img-standard" src="img/chris-bair-A10y2Eq7OHY-unsplash.jpg" alt="Brass image">
+            <span class="text-link-format">Brass</span>
+        </button>
+
+        <button type="button" class="instrument-option" data-family="woodwinds">
+            <img class="img-standard" src="img/jacob-mcgowin-HkHoF32l81E-unsplash.jpg" alt="Woodwind image">
+            <span class="text-link-format">Woodwinds</span>
+        </button>
+
+        <button type="button" class="instrument-option" data-family="percussion">
+            <img class="img-standard" src="img/matthijs-smit-bRG2C0FAQEY-unsplash.jpg" alt="Percussion image">
+            <span class="text-link-format">Percussion</span>
+        </button>
+
+        <button type="button" class="instrument-option" data-family="strings">
+            <img class="img-standard" src="img/larisa-birta-slbOcNlWNHA-unsplash.jpg" alt="Strings image">
+            <span class="text-link-format">Strings</span>
+        </button>
+    </main>
+
+    <button type="button" id="backButton" class="back-button" hidden>
+        Back
+    </button>
+
+    <footer>
+        <a href="contact.html#credits">Credits</a>
+    </footer>
+
+    <script type="module" src="js/instrument.js"></script>
+    </div>
+    <script type="module" src="js/auth-guard.js"></script>
+</body>
+</html>
