@@ -11,6 +11,17 @@ body {
     margin: 0;
 }
 
+/* Keeps protected pages and their footers properly aligned */
+#protectedContent {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+#protectedContent[hidden] {
+    display: none;
+}
+
 /*navagation css */
 header {
     position: relative;
@@ -237,6 +248,8 @@ footer a{
     padding: 20px;
     justify-items: stretch;
 }
+
+
 
 /* 2. Tablet screen size: will apply only to screens 768px or larger */
 @media (min-width: 768px) {
